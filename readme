@@ -1,0 +1,28 @@
+This is a Simple Calculator Project that can perform basic Arithmetic Operations like Addition, Substraction ,Multiplication , Percentage and Divison.
+
+This Calculator is made of python Language using Tkinter GUI library.
+
+This project shows some of the function and their uses included in Tkinter library:-
+
+-> title():-
+            This  is used to set the title of the window.
+-> Geometry():-
+            This is used to set the size of the window.
+-> Resizable():-
+            This is used to make the window resizable or not.
+-> Configure():-
+            This is used to modify the options of the widget
+->Label():-
+            This is used to display the text or image on screen.
+->Pack():-
+            This is used  to organize widgets before place them with the parent widget
+->mainloop():- 
+            This is used to start the main event loop of the application.
+->command=lambda:
+            This is used to execute a function when a button is clicked.
+->config():-
+            This is used to modify the options of the widget.
+    
+
+
+
